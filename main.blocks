@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_show_number" id="r%@p=X!P(aFCn)z1j[e)" disabled-reasons="pxt_automatic_disabled" x="578" y="-703"><value name="number"><shadow type="math_number" id="vxR8f~M34c?pxZpIpR2_" disabled-reasons="pxt_automatic_disabled"><field name="NUM">0</field></shadow></value></block></xml>
